@@ -1,2 +1,2 @@
 # Development
-This is a my first project
+This is a my first project.
